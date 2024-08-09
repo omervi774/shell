@@ -29,7 +29,7 @@ This program implements a mini shell that accepts commands from the user, proces
 - Use history to view the history of entered commands.
 - Type done to exit the shell and see the statistics.
 
-note: The history of commands is stored in a file named file.txt located on your Desktop.
+Note: The history of commands is stored in a file named file.txt located on your Desktop.
 
    
 
